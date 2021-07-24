@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 ![ozbannot's github stats](https://github-readme-stats.vercel.app/api?username=ozbannot&theme=dracula&count_private=true&show_icons=true&hide=contribs)
 
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozbannot&theme=dracula&hide=XSLT,JavaScript)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozbannot&layout=compact)
