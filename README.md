@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![ozbannot's github stats](https://github-readme-stats.vercel.app/api?username=ozbannot&theme=dracula&count_private=true&show_icons=true&hide=contribs)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=ozbannot)
 
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozbannot&layout=compact)
