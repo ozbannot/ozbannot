@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ozbannot)
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozbannot&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozbannot)
