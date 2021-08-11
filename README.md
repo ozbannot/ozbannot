@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github stats](https://github-readme-stats.vercel.app/api?username=ozbannot)
+[職務履歴書](https://github.com/ozbannot/curriculumVitae)
+<br>![github stats](https://github-readme-stats.vercel.app/api?username=ozbannot)
 <br>![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ozbannot)
-<br>[職務履歴書](https://github.com/ozbannot/curriculumVitae)
