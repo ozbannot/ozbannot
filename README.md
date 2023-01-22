@@ -1,6 +1,6 @@
 Hi there 👋
 
-<br>Software Engineer at
+<br>Software Engineer
 <!-- <br>[![Github](https://img.shields.io/github/followers/ozbannot?label=Follow&style=social)](https://github.com/ozbannot)
 <!--■ [職務履歴書](https://github.com/ozbannot/curriculumVitae)
 <br> ■[GitHub(work)](https://github.com/bannot) -->
